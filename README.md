@@ -140,13 +140,7 @@ model = load_model("best_brain_tumor_model.h5")
 
 ---
 
-## 🙋‍♂️ Author
 
-* **Amaan**
-  *M.Sc. Data Science*
-  Passionate about deep learning and medical AI.
-
----
 
 ## ⭐️ Acknowledgements
 
